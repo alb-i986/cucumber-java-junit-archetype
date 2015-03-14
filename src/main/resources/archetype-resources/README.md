@@ -1,4 +1,4 @@
-# Cucumber-Java-JUnit Archetype
+# Cucumber project, featuring Java and JUnit
 
 This is the simplest possible build script setup for Cucumber using Java.
 There is nothing fancy like a webapp or browser testing. All this does is to show you how
