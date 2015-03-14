@@ -7,4 +7,4 @@ This is just a re-packaging into a Maven Archetype.
 
 ## Usage
 
-    mvn archetype:generate -DarchetypeArtifactId=cucumber-java-junit-archetype -DarchetypeGroupId=me.alb-i986
+    mvn archetype:generate -DarchetypeArtifactId=cucumber-java-junit-archetype -DarchetypeGroupId=me.alb-i986.cucumber
