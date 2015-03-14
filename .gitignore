@@ -1,0 +1,10 @@
+/target/
+/lib
+
+# eclipse stuff
+.project
+/.settings/
+
+# ides stuff
+/.idea/
+*.iml
