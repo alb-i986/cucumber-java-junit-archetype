@@ -5,7 +5,7 @@
 
     <groupId>me.alb-i986</groupId>
     <artifactId>cucumber-java-junit-archetype</artifactId>
-    <version>1.2.2-SNAPSHOT</version>
+    <version>1.2.2</version>
     <packaging>maven-archetype</packaging>
 
     <name>cucumber-java-junit-archetype</name>
