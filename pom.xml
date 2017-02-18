@@ -10,9 +10,7 @@
 
     <name>cucumber-java-junit-archetype</name>
     <description>
-        Maven Archetype for creating cucumber projects, featuring Java and JUnit.
-        Entirely based on https://github.com/cucumber/cucumber-java-skeleton,
-        re-packaged into this Maven Archetype.
+        Maven Archetype for creating Cucumber Java projects, featuring JUnit. Entirely based on https://github.com/cucumber/cucumber-java-skeleton
     </description>
     <url>https://github.com/alb-i986/cucumber-java-junit-archetype</url>
     <licenses>
