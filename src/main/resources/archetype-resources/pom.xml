@@ -7,7 +7,7 @@
     <artifactId>${artifactId}</artifactId>
     <version>${version}</version>
     <packaging>jar</packaging>
-    <name>Cucumber project ft. JUnit</name>
+    <name>My Cucumber project ft. JUnit</name>
 
     <properties>
         <cucumber.version>1.2.5</cucumber.version>
